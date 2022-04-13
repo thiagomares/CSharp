@@ -1,0 +1,16 @@
+D:\CSharp\Métodos Com Parametros\obj\Debug\net6.0\Métodos Com Parametros.GlobalUsings.g.cs
+D:\CSharp\Métodos Com Parametros\obj\Debug\net6.0\Métodos Com Parametros.csproj.AssemblyReference.cache
+D:\CSharp\Métodos Com Parametros\obj\Debug\net6.0\Métodos Com Parametros.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Métodos Com Parametros\obj\Debug\net6.0\Métodos Com Parametros.AssemblyInfoInputs.cache
+D:\CSharp\Métodos Com Parametros\obj\Debug\net6.0\Métodos Com Parametros.AssemblyInfo.cs
+D:\CSharp\Métodos Com Parametros\obj\Debug\net6.0\Métodos Com Parametros.csproj.CoreCompileInputs.cache
+D:\CSharp\Métodos Com Parametros\bin\Debug\net6.0\Métodos Com Parametros.exe
+D:\CSharp\Métodos Com Parametros\bin\Debug\net6.0\Métodos Com Parametros.deps.json
+D:\CSharp\Métodos Com Parametros\bin\Debug\net6.0\Métodos Com Parametros.runtimeconfig.json
+D:\CSharp\Métodos Com Parametros\bin\Debug\net6.0\Métodos Com Parametros.dll
+D:\CSharp\Métodos Com Parametros\bin\Debug\net6.0\ref\Métodos Com Parametros.dll
+D:\CSharp\Métodos Com Parametros\bin\Debug\net6.0\Métodos Com Parametros.pdb
+D:\CSharp\Métodos Com Parametros\obj\Debug\net6.0\Métodos Com Parametros.dll
+D:\CSharp\Métodos Com Parametros\obj\Debug\net6.0\ref\Métodos Com Parametros.dll
+D:\CSharp\Métodos Com Parametros\obj\Debug\net6.0\Métodos Com Parametros.pdb
+D:\CSharp\Métodos Com Parametros\obj\Debug\net6.0\Métodos Com Parametros.genruntimeconfig.cache

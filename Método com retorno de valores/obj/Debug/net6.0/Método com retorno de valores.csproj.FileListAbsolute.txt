@@ -1,0 +1,15 @@
+/media/thiago/Novo volume/CSharp/Método com retorno de valores/obj/Debug/net6.0/Método com retorno de valores.csproj.AssemblyReference.cache
+/media/thiago/Novo volume/CSharp/Método com retorno de valores/obj/Debug/net6.0/Método com retorno de valores.GeneratedMSBuildEditorConfig.editorconfig
+/media/thiago/Novo volume/CSharp/Método com retorno de valores/obj/Debug/net6.0/Método com retorno de valores.AssemblyInfoInputs.cache
+/media/thiago/Novo volume/CSharp/Método com retorno de valores/obj/Debug/net6.0/Método com retorno de valores.AssemblyInfo.cs
+/media/thiago/Novo volume/CSharp/Método com retorno de valores/obj/Debug/net6.0/Método com retorno de valores.csproj.CoreCompileInputs.cache
+/media/thiago/Novo volume/CSharp/Método com retorno de valores/bin/Debug/net6.0/Método com retorno de valores
+/media/thiago/Novo volume/CSharp/Método com retorno de valores/bin/Debug/net6.0/Método com retorno de valores.deps.json
+/media/thiago/Novo volume/CSharp/Método com retorno de valores/bin/Debug/net6.0/Método com retorno de valores.runtimeconfig.json
+/media/thiago/Novo volume/CSharp/Método com retorno de valores/bin/Debug/net6.0/Método com retorno de valores.dll
+/media/thiago/Novo volume/CSharp/Método com retorno de valores/bin/Debug/net6.0/Método com retorno de valores.pdb
+/media/thiago/Novo volume/CSharp/Método com retorno de valores/obj/Debug/net6.0/Método com retorno de valores.dll
+/media/thiago/Novo volume/CSharp/Método com retorno de valores/obj/Debug/net6.0/refint/Método com retorno de valores.dll
+/media/thiago/Novo volume/CSharp/Método com retorno de valores/obj/Debug/net6.0/Método com retorno de valores.pdb
+/media/thiago/Novo volume/CSharp/Método com retorno de valores/obj/Debug/net6.0/Método com retorno de valores.genruntimeconfig.cache
+/media/thiago/Novo volume/CSharp/Método com retorno de valores/obj/Debug/net6.0/ref/Método com retorno de valores.dll

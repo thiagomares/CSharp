@@ -1,0 +1,16 @@
+D:\CSharp\Estruturas de Controle\Estruturas de controles\bin\Debug\net5.0\Estruturas de controles.exe
+D:\CSharp\Estruturas de Controle\Estruturas de controles\bin\Debug\net5.0\Estruturas de controles.deps.json
+D:\CSharp\Estruturas de Controle\Estruturas de controles\bin\Debug\net5.0\Estruturas de controles.runtimeconfig.json
+D:\CSharp\Estruturas de Controle\Estruturas de controles\bin\Debug\net5.0\Estruturas de controles.runtimeconfig.dev.json
+D:\CSharp\Estruturas de Controle\Estruturas de controles\bin\Debug\net5.0\Estruturas de controles.dll
+D:\CSharp\Estruturas de Controle\Estruturas de controles\bin\Debug\net5.0\ref\Estruturas de controles.dll
+D:\CSharp\Estruturas de Controle\Estruturas de controles\bin\Debug\net5.0\Estruturas de controles.pdb
+D:\CSharp\Estruturas de Controle\Estruturas de controles\obj\Debug\net5.0\Estruturas de controles.csprojAssemblyReference.cache
+D:\CSharp\Estruturas de Controle\Estruturas de controles\obj\Debug\net5.0\Estruturas de controles.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Estruturas de Controle\Estruturas de controles\obj\Debug\net5.0\Estruturas de controles.AssemblyInfoInputs.cache
+D:\CSharp\Estruturas de Controle\Estruturas de controles\obj\Debug\net5.0\Estruturas de controles.AssemblyInfo.cs
+D:\CSharp\Estruturas de Controle\Estruturas de controles\obj\Debug\net5.0\Estruturas de controles.csproj.CoreCompileInputs.cache
+D:\CSharp\Estruturas de Controle\Estruturas de controles\obj\Debug\net5.0\Estruturas de controles.dll
+D:\CSharp\Estruturas de Controle\Estruturas de controles\obj\Debug\net5.0\ref\Estruturas de controles.dll
+D:\CSharp\Estruturas de Controle\Estruturas de controles\obj\Debug\net5.0\Estruturas de controles.pdb
+D:\CSharp\Estruturas de Controle\Estruturas de controles\obj\Debug\net5.0\Estruturas de controles.genruntimeconfig.cache

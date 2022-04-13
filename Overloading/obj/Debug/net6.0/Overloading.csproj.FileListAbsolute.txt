@@ -1,0 +1,15 @@
+/media/thiago/Novo volume/CSharp/Overloading/bin/Debug/net6.0/Overloading
+/media/thiago/Novo volume/CSharp/Overloading/bin/Debug/net6.0/Overloading.deps.json
+/media/thiago/Novo volume/CSharp/Overloading/bin/Debug/net6.0/Overloading.runtimeconfig.json
+/media/thiago/Novo volume/CSharp/Overloading/bin/Debug/net6.0/Overloading.dll
+/media/thiago/Novo volume/CSharp/Overloading/bin/Debug/net6.0/Overloading.pdb
+/media/thiago/Novo volume/CSharp/Overloading/obj/Debug/net6.0/Overloading.csproj.AssemblyReference.cache
+/media/thiago/Novo volume/CSharp/Overloading/obj/Debug/net6.0/Overloading.GeneratedMSBuildEditorConfig.editorconfig
+/media/thiago/Novo volume/CSharp/Overloading/obj/Debug/net6.0/Overloading.AssemblyInfoInputs.cache
+/media/thiago/Novo volume/CSharp/Overloading/obj/Debug/net6.0/Overloading.AssemblyInfo.cs
+/media/thiago/Novo volume/CSharp/Overloading/obj/Debug/net6.0/Overloading.csproj.CoreCompileInputs.cache
+/media/thiago/Novo volume/CSharp/Overloading/obj/Debug/net6.0/Overloading.dll
+/media/thiago/Novo volume/CSharp/Overloading/obj/Debug/net6.0/refint/Overloading.dll
+/media/thiago/Novo volume/CSharp/Overloading/obj/Debug/net6.0/Overloading.pdb
+/media/thiago/Novo volume/CSharp/Overloading/obj/Debug/net6.0/Overloading.genruntimeconfig.cache
+/media/thiago/Novo volume/CSharp/Overloading/obj/Debug/net6.0/ref/Overloading.dll

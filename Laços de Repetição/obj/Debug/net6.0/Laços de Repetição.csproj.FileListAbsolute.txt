@@ -1,0 +1,16 @@
+D:\CSharp\Laços de Repetição\bin\Debug\net6.0\Laços de Repetição.exe
+D:\CSharp\Laços de Repetição\bin\Debug\net6.0\Laços de Repetição.deps.json
+D:\CSharp\Laços de Repetição\bin\Debug\net6.0\Laços de Repetição.runtimeconfig.json
+D:\CSharp\Laços de Repetição\bin\Debug\net6.0\Laços de Repetição.runtimeconfig.dev.json
+D:\CSharp\Laços de Repetição\bin\Debug\net6.0\Laços de Repetição.dll
+D:\CSharp\Laços de Repetição\bin\Debug\net6.0\ref\Laços de Repetição.dll
+D:\CSharp\Laços de Repetição\bin\Debug\net6.0\Laços de Repetição.pdb
+D:\CSharp\Laços de Repetição\obj\Debug\net6.0\Laços de Repetição.csprojAssemblyReference.cache
+D:\CSharp\Laços de Repetição\obj\Debug\net6.0\Laços de Repetição.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Laços de Repetição\obj\Debug\net6.0\Laços de Repetição.AssemblyInfoInputs.cache
+D:\CSharp\Laços de Repetição\obj\Debug\net6.0\Laços de Repetição.AssemblyInfo.cs
+D:\CSharp\Laços de Repetição\obj\Debug\net6.0\Laços de Repetição.csproj.CoreCompileInputs.cache
+D:\CSharp\Laços de Repetição\obj\Debug\net6.0\Laços de Repetição.dll
+D:\CSharp\Laços de Repetição\obj\Debug\net6.0\ref\Laços de Repetição.dll
+D:\CSharp\Laços de Repetição\obj\Debug\net6.0\Laços de Repetição.pdb
+D:\CSharp\Laços de Repetição\obj\Debug\net6.0\Laços de Repetição.genruntimeconfig.cache

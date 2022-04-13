@@ -1,0 +1,15 @@
+D:\CSharp\Termo This\bin\Debug\net6.0\Termo This.exe
+D:\CSharp\Termo This\bin\Debug\net6.0\Termo This.deps.json
+D:\CSharp\Termo This\bin\Debug\net6.0\Termo This.runtimeconfig.json
+D:\CSharp\Termo This\bin\Debug\net6.0\Termo This.dll
+D:\CSharp\Termo This\bin\Debug\net6.0\Termo This.pdb
+D:\CSharp\Termo This\obj\Debug\net6.0\Termo This.csproj.AssemblyReference.cache
+D:\CSharp\Termo This\obj\Debug\net6.0\Termo This.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Termo This\obj\Debug\net6.0\Termo This.AssemblyInfoInputs.cache
+D:\CSharp\Termo This\obj\Debug\net6.0\Termo This.AssemblyInfo.cs
+D:\CSharp\Termo This\obj\Debug\net6.0\Termo This.csproj.CoreCompileInputs.cache
+D:\CSharp\Termo This\obj\Debug\net6.0\Termo This.dll
+D:\CSharp\Termo This\obj\Debug\net6.0\refint\Termo This.dll
+D:\CSharp\Termo This\obj\Debug\net6.0\Termo This.pdb
+D:\CSharp\Termo This\obj\Debug\net6.0\Termo This.genruntimeconfig.cache
+D:\CSharp\Termo This\obj\Debug\net6.0\ref\Termo This.dll

@@ -1,0 +1,16 @@
+D:\CSharp\Sequencia de Fibonacci\bin\Debug\net6.0\Sequencia de Fibonacci.exe
+D:\CSharp\Sequencia de Fibonacci\bin\Debug\net6.0\Sequencia de Fibonacci.deps.json
+D:\CSharp\Sequencia de Fibonacci\bin\Debug\net6.0\Sequencia de Fibonacci.runtimeconfig.json
+D:\CSharp\Sequencia de Fibonacci\bin\Debug\net6.0\Sequencia de Fibonacci.runtimeconfig.dev.json
+D:\CSharp\Sequencia de Fibonacci\bin\Debug\net6.0\Sequencia de Fibonacci.dll
+D:\CSharp\Sequencia de Fibonacci\bin\Debug\net6.0\ref\Sequencia de Fibonacci.dll
+D:\CSharp\Sequencia de Fibonacci\bin\Debug\net6.0\Sequencia de Fibonacci.pdb
+D:\CSharp\Sequencia de Fibonacci\obj\Debug\net6.0\Sequencia de Fibonacci.csprojAssemblyReference.cache
+D:\CSharp\Sequencia de Fibonacci\obj\Debug\net6.0\Sequencia de Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Sequencia de Fibonacci\obj\Debug\net6.0\Sequencia de Fibonacci.AssemblyInfoInputs.cache
+D:\CSharp\Sequencia de Fibonacci\obj\Debug\net6.0\Sequencia de Fibonacci.AssemblyInfo.cs
+D:\CSharp\Sequencia de Fibonacci\obj\Debug\net6.0\Sequencia de Fibonacci.csproj.CoreCompileInputs.cache
+D:\CSharp\Sequencia de Fibonacci\obj\Debug\net6.0\Sequencia de Fibonacci.dll
+D:\CSharp\Sequencia de Fibonacci\obj\Debug\net6.0\ref\Sequencia de Fibonacci.dll
+D:\CSharp\Sequencia de Fibonacci\obj\Debug\net6.0\Sequencia de Fibonacci.pdb
+D:\CSharp\Sequencia de Fibonacci\obj\Debug\net6.0\Sequencia de Fibonacci.genruntimeconfig.cache

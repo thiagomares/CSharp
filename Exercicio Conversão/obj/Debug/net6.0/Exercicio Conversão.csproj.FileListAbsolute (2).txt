@@ -1,0 +1,16 @@
+D:\CSharp\Exercicio Conversão\bin\Debug\net6.0\Exercicio Conversão.exe
+D:\CSharp\Exercicio Conversão\bin\Debug\net6.0\Exercicio Conversão.deps.json
+D:\CSharp\Exercicio Conversão\bin\Debug\net6.0\Exercicio Conversão.runtimeconfig.json
+D:\CSharp\Exercicio Conversão\bin\Debug\net6.0\Exercicio Conversão.runtimeconfig.dev.json
+D:\CSharp\Exercicio Conversão\bin\Debug\net6.0\Exercicio Conversão.dll
+D:\CSharp\Exercicio Conversão\bin\Debug\net6.0\ref\Exercicio Conversão.dll
+D:\CSharp\Exercicio Conversão\bin\Debug\net6.0\Exercicio Conversão.pdb
+D:\CSharp\Exercicio Conversão\obj\Debug\net6.0\Exercicio Conversão.csprojAssemblyReference.cache
+D:\CSharp\Exercicio Conversão\obj\Debug\net6.0\Exercicio Conversão.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Exercicio Conversão\obj\Debug\net6.0\Exercicio Conversão.AssemblyInfoInputs.cache
+D:\CSharp\Exercicio Conversão\obj\Debug\net6.0\Exercicio Conversão.AssemblyInfo.cs
+D:\CSharp\Exercicio Conversão\obj\Debug\net6.0\Exercicio Conversão.csproj.CoreCompileInputs.cache
+D:\CSharp\Exercicio Conversão\obj\Debug\net6.0\Exercicio Conversão.dll
+D:\CSharp\Exercicio Conversão\obj\Debug\net6.0\ref\Exercicio Conversão.dll
+D:\CSharp\Exercicio Conversão\obj\Debug\net6.0\Exercicio Conversão.pdb
+D:\CSharp\Exercicio Conversão\obj\Debug\net6.0\Exercicio Conversão.genruntimeconfig.cache

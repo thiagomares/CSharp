@@ -1,0 +1,16 @@
+D:\CSharp\Orientação a Objetos\obj\Debug\net6.0\Orientação a Objetos.csprojAssemblyReference.cache
+D:\CSharp\Orientação a Objetos\obj\Debug\net6.0\Orientação a Objetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Orientação a Objetos\obj\Debug\net6.0\Orientação a Objetos.AssemblyInfoInputs.cache
+D:\CSharp\Orientação a Objetos\obj\Debug\net6.0\Orientação a Objetos.AssemblyInfo.cs
+D:\CSharp\Orientação a Objetos\obj\Debug\net6.0\Orientação a Objetos.csproj.CoreCompileInputs.cache
+D:\CSharp\Orientação a Objetos\bin\Debug\net6.0\Orientação a Objetos.exe
+D:\CSharp\Orientação a Objetos\bin\Debug\net6.0\Orientação a Objetos.deps.json
+D:\CSharp\Orientação a Objetos\bin\Debug\net6.0\Orientação a Objetos.runtimeconfig.json
+D:\CSharp\Orientação a Objetos\bin\Debug\net6.0\Orientação a Objetos.runtimeconfig.dev.json
+D:\CSharp\Orientação a Objetos\bin\Debug\net6.0\Orientação a Objetos.dll
+D:\CSharp\Orientação a Objetos\bin\Debug\net6.0\ref\Orientação a Objetos.dll
+D:\CSharp\Orientação a Objetos\bin\Debug\net6.0\Orientação a Objetos.pdb
+D:\CSharp\Orientação a Objetos\obj\Debug\net6.0\Orientação a Objetos.dll
+D:\CSharp\Orientação a Objetos\obj\Debug\net6.0\ref\Orientação a Objetos.dll
+D:\CSharp\Orientação a Objetos\obj\Debug\net6.0\Orientação a Objetos.pdb
+D:\CSharp\Orientação a Objetos\obj\Debug\net6.0\Orientação a Objetos.genruntimeconfig.cache
