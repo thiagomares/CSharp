@@ -5,7 +5,7 @@ class termoThis
     static void Main(string[] args)
     {
         Acessar a = new Acessar();
-        if (a.Login("Ana Clar"))
+        if (a.Login("Thiago"))
         {
             System.Console.WriteLine("Olá, Mundo");
         }

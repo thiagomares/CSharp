@@ -13,3 +13,18 @@ D:\CSharp\Termo This\obj\Debug\net6.0\refint\Termo This.dll
 D:\CSharp\Termo This\obj\Debug\net6.0\Termo This.pdb
 D:\CSharp\Termo This\obj\Debug\net6.0\Termo This.genruntimeconfig.cache
 D:\CSharp\Termo This\obj\Debug\net6.0\ref\Termo This.dll
+G:\Meu Drive\Backup\CSharp\Termo This\bin\Debug\net6.0\Termo This.exe
+G:\Meu Drive\Backup\CSharp\Termo This\bin\Debug\net6.0\Termo This.deps.json
+G:\Meu Drive\Backup\CSharp\Termo This\bin\Debug\net6.0\Termo This.runtimeconfig.json
+G:\Meu Drive\Backup\CSharp\Termo This\bin\Debug\net6.0\Termo This.dll
+G:\Meu Drive\Backup\CSharp\Termo This\bin\Debug\net6.0\Termo This.pdb
+G:\Meu Drive\Backup\CSharp\Termo This\obj\Debug\net6.0\Termo This.csproj.AssemblyReference.cache
+G:\Meu Drive\Backup\CSharp\Termo This\obj\Debug\net6.0\Termo This.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Backup\CSharp\Termo This\obj\Debug\net6.0\Termo This.AssemblyInfoInputs.cache
+G:\Meu Drive\Backup\CSharp\Termo This\obj\Debug\net6.0\Termo This.AssemblyInfo.cs
+G:\Meu Drive\Backup\CSharp\Termo This\obj\Debug\net6.0\Termo This.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Backup\CSharp\Termo This\obj\Debug\net6.0\Termo This.dll
+G:\Meu Drive\Backup\CSharp\Termo This\obj\Debug\net6.0\refint\Termo This.dll
+G:\Meu Drive\Backup\CSharp\Termo This\obj\Debug\net6.0\Termo This.pdb
+G:\Meu Drive\Backup\CSharp\Termo This\obj\Debug\net6.0\Termo This.genruntimeconfig.cache
+G:\Meu Drive\Backup\CSharp\Termo This\obj\Debug\net6.0\ref\Termo This.dll
